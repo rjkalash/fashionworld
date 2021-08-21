@@ -74,7 +74,7 @@
  
   <div style="color: blue; background-color: aqua; text-align: center; padding-top: 10; top: 20;">
     Fashion is a form of self-expression and autonomy at a particular period and place and in a specific context, 
-    of clothing, footwear, lifestyle, accessories, makeup, hairstyle, and body posture.[1] In its everyday use, the term implies a look defined by the fashion industry as that which is trending. Everything that is considered fashion is available and popular by the fashion system (industry and media).
+    of clothing, footwear, lifestyle, accessories, makeup, hairstyle, and body posture. In its everyday use, the term implies a look defined by the fashion industry as that which is trending. Everything that is considered fashion is available and popular by the fashion system (industry and media).
 
 In reaction to the increased mass-production of commodities clothing at lower prices and global reach, 
 sustainability has become an urgent issue among politicians, brands, and consumers.
